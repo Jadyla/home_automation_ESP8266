@@ -1,5 +1,5 @@
 # home_automation_ESP8266
-<a href="https://github.com/Jadyla/home_automation_ESP8266/new/main?readme=1#en">EN</a> / 
+<a href="https://github.com/Jadyla/home_automation_ESP8266/edit/main/README.md#en">EN</a> / 
 <a href="https://github.com/Jadyla/home_automation_ESP8266/edit/main/README.md#pt-br">PT-BR</a>
 
 ## EN
