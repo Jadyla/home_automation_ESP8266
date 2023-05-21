@@ -31,8 +31,8 @@ unsigned long previousTime = 0;
 const long timeoutTime = 1000;
 
 // Definição da rede e IPs a serem utilizados
-const char *ssid = "Lijesp";
-const char *password = "24Nov92#";
+const char *ssid = "";              // add here your network name
+const char *password = "";  //add here the password for your wifi connection
 IPAddress local_IP(192,168,0,192);
 IPAddress gateway(192,168,0,1);
 IPAddress subnet(255,255,255,0);
